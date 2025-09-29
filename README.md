@@ -2,7 +2,7 @@ Hey there, Assalamu'alaikum. 👋
 - 🔭 I’m currently working on Software eng.
 - 🌱 I’m currently learning Agentic AI eng.
 - 👯 I’m looking to collaborate on hackathons, open source contributions and freelance/remote projects.
-- 🤔 I’m looking for help with the basics of computer science.
+- 🤔 I’m looking for help with building a strong foundation of computer science concepts in my theory learning stage.
 - 💬 Ask me about overviews on AI and Big tech.
 - 📫 How to reach me: cs21eng@outlook.com
 - instagram: cs21.ai
