@@ -1,5 +1,5 @@
 Hey there, Assalamu'alaikum. 👋
-- 🔭 I’m currently working on Software eng.
+- 🔭 I’m currently working on Software.
 - 🌱 I’m currently learning Agentic AI eng.
 - 👯 I’m looking to collaborate on hackathons, open source contributions and freelance/remote projects.
 - 🤔 I’m looking for help with building a strong foundation of computer science concepts in my theory learning stage.
